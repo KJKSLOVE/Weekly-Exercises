@@ -11,7 +11,9 @@
 
 https://github.com/AlexiFeng/Weekly-Exercises
 
-https://git.oschina.net/Haskell_Curry/Weekly-Exercises(如果Github访问慢或者被墙可以使用这个地址)
+https://git.oschina.net/Haskell_Curry/Weekly-Exercises
+
+(如果Github访问慢或者被墙可以使用这个地址)
 
 QPython群及LoveCoding每周训练题
 
